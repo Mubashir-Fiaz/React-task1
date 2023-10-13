@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.first{
+    /* border: 2px solid red; */
+    background-image:url(./Images/hero-bg.jpg) ;
+    background-size: 100% 100%;
+
+}
+.sec1{
+   border-bottom-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    background:;
+}
+.sec3{
+    background:rgba(220, 220, 220, 0.568);
+    
+    border-radius:40px ;
+  
+}
+.img1{
+    background:url(./Images/plant4-free-img.jpg);
+    background-size:100%  100%;
+
+
+}
+.main:hover{
+    box-shadow: 3px 2px 10px 2px rgba(128, 128, 128, 0.4);
+    cursor: pointer;
+}
+.img2{
+    background:url(./Images/plant5-free-img.jpg);
+    background-size:100%  100%;
+
+
+}
+.img3{
+    background:url(./Images/plant6-free-img.jpg);
+    background-size:100%  100%;
+
+
+}
+.Sec4img{
+    background-image: url(./Images/cactus2-free-img.jpg);
+background-size: 100% 100%;
+}
+.Sec4img1{
+    background-image: url(./Images/plant1-free-img.jpg);
+background-size: 100% 100%;
+}
+.Sec4img2{
+    background-image: url(./Images/plant4-free-img.jpg);
+background-size: 100% 100%;
+}
+.Sec4img3{
+    background-image: url(./Images/cactus6-free-img.jpg);
+background-size: 100% 100%;
+}
+
+.Sec4img4{
+    background-image: url(./Images/cactus4-free-img.jpg);
+background-size: 100% 100%;
+}
+.Sec4img5{
+    background-image: url(./Images/plant6-free-img.jpg);
+background-size: 100% 100%;
+}
+.Sec4img6{
+    background-image: url(./Images/plant5-free-img.jpg);
+background-size: 100% 100%;
+}
+.Sec4img7{
+    background-image: url(./Images/plant4-free-img.jpg);
+background-size: 100% 100%;
+}
+.sec6{
+    background-image: url(./Images/CTA-bg.jpg);
+    background-size: 100% 100%;
+}
